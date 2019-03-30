@@ -1,0 +1,64 @@
+
+
+.container{
+    background:
+    linear-gradient(135deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+    linear-gradient(225deg, #708090 21px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background-color:#708090;
+    background-size: 64px 128px;
+    height: 100%;
+
+}
+
+.header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 24px;
+    line-height: 36px;
+    background:tan;
+    width: 405px;
+    padding: 10px
+
+}
+
+
+.crystalImages img{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    
+}
+
+#randomNumber{
+    font-size: 48px;
+    background: teal;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    float: left;
+  
+    
+}
+
+.winsLossCount{
+    font-size: 24px;
+    background:lightblue;
+    width: 50px;
+    height: 100px;
+    padding: 10px;
+    float: left;
+    
+}
+
+.yourScore{
+    background: lightblue;
+    font-size: 24px;
+    width: 200px;
+    padding: 10px;
+}
+
+#yourScoreIs{
+    background: lightblue;
+    font-size: 24px;
+    width: 200px;
+    padding: 10px;
+}
